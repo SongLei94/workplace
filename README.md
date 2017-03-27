@@ -1,22 +1,22 @@
 # 联系方式
- 手机：15001821917<br>
- 邮箱：15001821917@163.com<br>
- QQ ：425202998<br>
+* 手机：15001821917<br>
+* 邮箱：15001821917@163.com<br>
+* QQ ：425202998<br>
 # 个人信息
- 姓名：宋磊<br>
- 学校：上海师范大学天华学院<br>
- 专业：康复治疗<br>
- 坐标：上海<br>
- 期望职位：前端开发实习<br>
+* 姓名：宋磊<br>
+* 学校：上海师范大学天华学院<br>
+* 专业：康复治疗<br>
+* 坐标：上海<br>
+* 期望职位：前端开发实习<br>
 # 技能清单
- 熟悉PS切图<br>
- 熟悉HTML/CSS<br>
- 熟悉Javascript<br>
- 熟悉JQuery<br>
- 熟悉AJAX<br>
- 了解git版本控制<br>
- 了解angularJS，bootstrap等前端框架<br>
- 英语/日语<br>
+* 熟悉PS切图<br>
+* 熟悉HTML/CSS<br>
+* 熟悉Javascript<br>
+* 熟悉JQuery<br>
+* 熟悉AJAX<br>
+* 了解git版本控制<br>
+* 了解angularJS，bootstrap等前端框架<br>
+* 英语/日语<br>
 # 爱好
  动漫 / 游戏 / 射箭 / 野营 等<br>
 # 自我介绍
